@@ -1,0 +1,6 @@
+.dropdown-no-arrow{
+    cursor:pointer;
+}
+.dropdown-no-arrow::after{
+    display:none;
+}
